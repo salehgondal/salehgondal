@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Saleh Hassan Nasir 👋
 
-<!--
-**salehgondal/salehgondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Data Scientist and a Master's student in Analytics at Georgia Tech. I have a passion for solving complex problems using data-driven solutions.
 
-Here are some ideas to get you started:
+## 🔭 Projects & Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌱 What I'm currently learning
+- Advanced statistical methods
+- Machine learning algorithms
+
+## 💬 Let's connect!
+- [LinkedIn](www.linkedin.com/in/saleh-hassan-nasir)
